@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="./socialcard-blade-radix-icons.png" width="1280" title="Social Card Blade Radix Icons">
+    <img src="https://banners.beyondco.de/Blade%20Radix%20Icons.png?theme=light&packageManager=composer+require&packageName=codeat3%2Fblade-radix-icons&pattern=architect&style=style_1&description=A+package+to+use+Radix+Icons+in+your+Laravel+Blade+views&md=1&showWatermark=1&fontSize=100px&images=https%3A%2F%2Flaravel.com%2Fimg%2Flogomark.min.svg" width="1280" title="Social Card Blade Radix Icons">
 </p>
 
 # Blade Radix Icons
