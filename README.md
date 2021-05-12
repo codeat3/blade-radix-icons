@@ -33,6 +33,18 @@ composer require codeat3/blade-radix-icons
 
 Please refer to [`the upgrade guide`](UPGRADE.md) when updating the library.
 
+## Blade Icons
+
+Blade Radix Icons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality. We also recommend to [enable icon caching](https://github.com/blade-ui-kit/blade-icons#caching) with this library.
+
+## Configuration
+
+Blade Radix Icons also offers the ability to use features from Blade Icons like default classes, default attributes, etc. If you'd like to configure these, publish the `blade-radix-icons.php` config file:
+
+```bash
+php artisan vendor:publish --tag=blade-radix-icons-config
+```
+
 ## Usage
 
 Icons can be used as self-closing Blade components which will be compiled to SVG icons:
@@ -66,10 +78,6 @@ Then use them in your views like:
 ```blade
 <img src="{{ asset('vendor/blade-radix-icons/air.svg') }}" width="10" height="10"/>
 ```
-
-### Blade Icons
-
-Blade Radix Icons uses Blade Icons under the hood. Please refer to [the Blade Icons readme](https://github.com/blade-ui-kit/blade-icons) for additional functionality.
 
 ## Changelog
 
