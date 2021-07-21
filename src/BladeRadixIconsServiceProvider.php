@@ -19,7 +19,6 @@ final class BladeRadixIconsServiceProvider extends ServiceProvider
 
             $factory->add('radix-icons', array_merge(['path' => __DIR__.'/../resources/svg'], $config));
         });
-
     }
 
     private function registerConfig(): void
