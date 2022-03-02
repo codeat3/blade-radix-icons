@@ -2,7 +2,15 @@
 
 This changelog follows [the Keep a Changelog standard](https://keepachangelog.com).
 
-## [Unreleased](https://github.com/codeat3/blade-radix-icons/compare/1.4.1...HEAD)
+## [Unreleased](https://github.com/codeat3/blade-radix-icons/compare/1.5.1...HEAD)
+
+## [1.5.1](https://github.com/codeat3/blade-radix-icons/compare/1.4.1...1.5.1) - 2022-03-02
+
+## Updates
+
+chore: update icons with the latest commit [ae5c48f](https://github.com/radix-ui/icons/commit/ae5c48fc3cdafadddf97dc1c59d02027bd63e6bf)  by @github-actions in https://github.com/codeat3/blade-radix-icons/pull/7
+
+**Full Changelog**: https://github.com/codeat3/blade-radix-icons/compare/1.4.1...1.5.1
 
 ## [1.4.1](https://github.com/codeat3/blade-radix-icons/compare/1.3.1...1.4.1) - 2022-02-14
 
